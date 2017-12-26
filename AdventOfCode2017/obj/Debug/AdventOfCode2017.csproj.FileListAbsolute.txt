@@ -1,0 +1,14 @@
+C:\github\AdventOfCode2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.exe.config
+C:\github\AdventOfCode2017\AdventOfCode2017\bin\Debug\Day1\input.txt
+C:\github\AdventOfCode2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.exe
+C:\github\AdventOfCode2017\AdventOfCode2017\bin\Debug\AdventOfCode2017.pdb
+C:\github\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.csprojResolveAssemblyReference.cache
+C:\github\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.exe
+C:\github\AdventOfCode2017\AdventOfCode2017\obj\Debug\AdventOfCode2017.pdb
+C:\github\AdventOfCode2017\AdventOfCode2017\bin\Debug\Day1\inputdev.txt
+C:\github\AdventOfCode2017\AdventOfCode2017\bin\Debug\Day2\input.txt
+C:\github\AdventOfCode2017\AdventOfCode2017\bin\Debug\Day2\inputdev.txt
+C:\github\AdventOfCode2017\AdventOfCode2017\bin\Debug\DayBase\input.txt
+C:\github\AdventOfCode2017\AdventOfCode2017\bin\Debug\DayBase\inputdev.txt
+C:\github\AdventOfCode2017\AdventOfCode2017\bin\Debug\Day3\input.txt
+C:\github\AdventOfCode2017\AdventOfCode2017\bin\Debug\Day3\inputdev.txt
