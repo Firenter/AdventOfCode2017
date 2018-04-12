@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode2017", "AdventOfCode2017.csproj", "{65FA1EA9-1213-48E3-B2D1-52FD570C6985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AoC2017WPF", "..\AoC2017WPF\AoC2017WPF.csproj", "{6E83B283-B463-4791-82DB-925DE6807D50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{65FA1EA9-1213-48E3-B2D1-52FD570C6985}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65FA1EA9-1213-48E3-B2D1-52FD570C6985}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65FA1EA9-1213-48E3-B2D1-52FD570C6985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E83B283-B463-4791-82DB-925DE6807D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E83B283-B463-4791-82DB-925DE6807D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E83B283-B463-4791-82DB-925DE6807D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E83B283-B463-4791-82DB-925DE6807D50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {515FCFC2-8C8E-4863-B8C4-1399255C54F6}
 	EndGlobalSection
 EndGlobal
